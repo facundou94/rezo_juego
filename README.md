@@ -2,6 +2,8 @@
 <h1 align="center"> Proyecto “Rezo: Un juego de Rock y Rol”  </h1>
 <h3 align="center"> Creador: Facundo Urteaga  </h3>
 <h3 align="center"> Disponible en: /Ejecutable comprimido/rezo.apk (mas info en apartado compatibilidad)  </h3>
+<h3 align="center"> Proyecto completo disponible en: https://drive.google.com/drive/folders/14UZ5jxL7LbuRkHwYgqljMkG0eX489tf0?usp=sharing </h3>
+
 
 
 <p align="left">
@@ -26,7 +28,7 @@
 El juego fue producto de un sueño que tuve desde muy joven, alimentado por mi pasión por los videojuegos y el rock nacional, así como por el deseo de crear un juego con esta impronta desde cero. Su desarrollo tuvo lugar principalmente durante la pandemia, un tiempo en el que sentía mucha incertidumbre sobre mi futuro. Durante mucho tiempo, quedó a medio camino (y sigue en desarrollo), ya que resultó que me había embarcado en un proyecto muy grande y ambicioso en cuanto a la complejidad del juego, considerando que una sola persona (yo) iba a estar a cargo de todas las aristas del proyecto. Sin embargo, en este último tiempo decidí darle una forma presentable y terminada, al menos del primer nivel, teniendo en el horizonte el deseo de, en algún momento, poder trabajar en este tipo de proyectos.
 </p>
 <p align="center">
-   <img src="Imagenes/LOGO_definitivo.png" width="400">
+   <img src="Imagenes/LOGO_definitivo.png" width="200">
 </p>
 <p align="center">
    <em> </em>
