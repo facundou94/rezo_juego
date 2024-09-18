@@ -1,7 +1,7 @@
 # rezo_juego
 <h1 align="center"> Proyecto “Rezo: Un juego de Rock y Rol”  </h1>
 <h3 align="center"> Creador: Facundo Urteaga  </h3>
-<h3 align="center"> Disponible en: /Ejecutable/rezo.apk (mas info en apartado compatibilidad)  </h3>
+<h3 align="center"> Disponible en: /Ejecutable comprimido/rezo.apk (mas info en apartado compatibilidad)  </h3>
 
 
 <p align="left">
@@ -26,7 +26,7 @@
 El juego fue producto de un sueño que tuve desde muy joven, alimentado por mi pasión por los videojuegos y el rock nacional, así como por el deseo de crear un juego con esta impronta desde cero. Su desarrollo tuvo lugar principalmente durante la pandemia, un tiempo en el que sentía mucha incertidumbre sobre mi futuro. Durante mucho tiempo, quedó a medio camino (y sigue en desarrollo), ya que resultó que me había embarcado en un proyecto muy grande y ambicioso en cuanto a la complejidad del juego, considerando que una sola persona (yo) iba a estar a cargo de todas las aristas del proyecto. Sin embargo, en este último tiempo decidí darle una forma presentable y terminada, al menos del primer nivel, teniendo en el horizonte el deseo de, en algún momento, poder trabajar en este tipo de proyectos.
 </p>
 <p align="center">
-   <img src="Proyecto/Assets/Sprites/Logos/LOGO_definitivo.png" width="400">
+   <img src="Imagenes/LOGO_definitivo.png" width="400">
 </p>
 <p align="center">
    <em> </em>
@@ -61,46 +61,46 @@ El juego está pensado para un dispositivo móvil. Fue testeado en Samsung Galax
 ## Galería de imágenes
 
 <p align="center">
-   <img src="Imagenes/01_img.jpg" width="400">
+   <img src="Imagenes/01_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/02_img.jpg" width="400">
+   <img src="Imagenes/02_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/03_img.jpg" width="400">
+   <img src="Imagenes/03_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/04_img.jpg" width="400">
+   <img src="Imagenes/04_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/05_img.jpg" width="400">
+   <img src="Imagenes/05_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/06_img.jpg" width="400">
+   <img src="Imagenes/06_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/07_img.jpg" width="400">
+   <img src="Imagenes/07_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/08_img.jpg" width="400">
+   <img src="Imagenes/08_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/09_img.jpg" width="400">
+   <img src="Imagenes/09_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/10_img.jpg" width="400">
+   <img src="Imagenes/10_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/11_img.jpg" width="400">
+   <img src="Imagenes/11_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/12_img.jpg" width="400">
+   <img src="Imagenes/12_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/13_img.jpg" width="400">
+   <img src="Imagenes/13_img.jpg" width="200">
 </p>
 <p align="center">
-   <img src="Imagenes/14_img.jpg" width="400">
+   <img src="Imagenes/14_img.jpg" width="200">
 </p>
 <p align="center">
    <img src="Imagenes/15_img.jpg" width="400">
